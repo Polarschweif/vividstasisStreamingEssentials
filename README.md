@@ -13,3 +13,7 @@ Future Ideas
 Collecting ideas from the community here
 ------------------------------------
 *Nothing collected so far*
+
+Screenshots
+------------------------------------
+<img width="585" height="761" alt="grafik" src="https://github.com/user-attachments/assets/4d899138-5916-4343-ae0a-003dd9a7509f" />
