@@ -16,5 +16,4 @@ Collecting ideas from the community here
 
 Screenshots
 ------------------------------------
-<img width="584" height="762" alt="grafik" src="https://github.com/user-attachments/assets/1a9e9a56-1596-4c4e-a034-51a216372c57" />
-
+<img width="583" height="761" alt="grafik" src="https://github.com/user-attachments/assets/958a3c11-7d75-4a9f-8c51-302be80fd300" />
