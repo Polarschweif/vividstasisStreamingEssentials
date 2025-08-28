@@ -11,7 +11,7 @@ Changelog
  - 1.1.0
     - Added achievement display
 
- - 1.2.0 QOL Update!!!
+ - 1.2.0 - QOL Update!!!
    - Added right-click menu
    - The order of the stats can now be changed by dragging it
    - You can now choose what to display
