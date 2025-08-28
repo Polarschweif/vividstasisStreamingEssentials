@@ -31,3 +31,4 @@ Collecting ideas from the community here
 Screenshots
 ------------------------------------
 <img width="583" height="761" alt="grafik" src="https://github.com/user-attachments/assets/958a3c11-7d75-4a9f-8c51-302be80fd300" />
+(this screenshot was taken on version 1.0.0!!)
