@@ -6,17 +6,17 @@ Simply click anywhere on the black/green area to toggle between black and green.
 Changelog
 ------------------------------------
  - 1.0.0
-   Release of the first prototype
+    - Release of the first prototype
 
  - 1.1.0
-   Added achievement display
+    - Added achievement display
 
  - 1.2.0
-   QOL Update!!!
-    - Added right-click menu
-    - The order of the stats can now be changed by dragging it
-    - You can now choose what to display
-    - You can change the background color of the stat backgrounds and the text
+    - QOL Update!!!
+       - Added right-click menu
+       - The order of the stats can now be changed by dragging it
+       - You can now choose what to display
+       - You can change the background color of the stat backgrounds and the text
 
 Future Ideas
 ------------------------------------
