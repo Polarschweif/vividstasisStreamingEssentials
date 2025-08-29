@@ -17,6 +17,9 @@ Changelog
    - You can now choose what to display
    - You can change the background color of the stat backgrounds and the text
 
+ - 1.2.1
+    - Fixed colors not saving
+
 Future Ideas
 ------------------------------------
  - Re-adding a 2nd tab page with all the informations and still being able to toggle background color between black and green.
