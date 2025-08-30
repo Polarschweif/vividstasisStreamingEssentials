@@ -40,6 +40,6 @@ Screenshots
 <details>
   <summary></summary>
   
- Trailer + showcase releasing tomorrow (August 30) on youtube (NOT MY MAIN!!!! CHECK STUDIO ACCOUNT!!)
+ Trailer + showcase releasing tomorrow (August 31) on youtube (NOT MY MAIN!!!! CHECK STUDIO ACCOUNT!!)
   
 </details>
