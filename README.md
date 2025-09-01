@@ -1,4 +1,8 @@
 # vividstasisProfileReader
+
+## PROJECT PAUSED DUE TO MY CURRENT CIRCUMSTANCES
+**I'm sorry**
+
 This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
 It can also be useful for an obs-scene by turning the background green.
 Simply click anywhere on the black/green area to toggle between black and green. (CHANGED, check 1.2.0 changelog!!!)
