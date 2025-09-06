@@ -10,35 +10,44 @@ Changelog
 ------------------------------------
  - 1.0.0
     - Release of the first prototype
+      
 
  - 1.1.0
     - Added achievement display
+      
 
  - 1.2.0 - QOL Update!!!
    - Added right-click menu
    - The order of the stats can now be changed by dragging it
    - You can now choose what to display
    - You can change the background color of the stat backgrounds and the text
+     
 
  - 1.2.1
     - Fixed colors not saving
+      
 
  - 1.3.1
     - The Keyoverlay is here!!!
     - It comes with a key counter, yaaay
     - You can bind a key to reset the counter
+      
 
   - 1.3.2
     - Fixed keybindings not updating when changing in-game
+      
    
    - 1.3.Dumb (1.3.3 bc I am stupid)
      - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
+       
 
    - 1.3.4
      - Fixed KPS not resetting
+       
 
    - 1.3.4
      - Removed avg KPS for now due to its inaccuracy, I'm sorry
+       
 
 Future Ideas
 ------------------------------------
