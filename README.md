@@ -35,6 +35,9 @@ Changelog
    - 1.3.Dumb (1.3.3 bc I am stupid)
     - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
 
+   - 1.3.4
+    - Fixed KPS not resetting
+
 Future Ideas
 ------------------------------------
  - Re-adding a 2nd tab page with all the informations and still being able to toggle background color between black and green.
