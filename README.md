@@ -31,6 +31,9 @@ Changelog
 
   - 1.3.2
     - Fixed keybindings not updating when changing in-game
+   
+   - 1.3.Dumb (1.3.3 bc I am stupid)
+    - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
 
 Future Ideas
 ------------------------------------
