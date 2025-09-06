@@ -32,13 +32,13 @@ Changelog
     - Fixed keybindings not updating when changing in-game
    
    - 1.3.Dumb (1.3.3 bc I am stupid)
-    - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
+     - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
 
    - 1.3.4
-    - Fixed KPS not resetting
+     - Fixed KPS not resetting
 
    - 1.3.4
-    - Removed avg KPS for now due to its inaccuracy, I'm sorry
+     - Removed avg KPS for now due to its inaccuracy, I'm sorry
 
 Future Ideas
 ------------------------------------
