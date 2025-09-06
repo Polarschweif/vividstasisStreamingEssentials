@@ -1,7 +1,6 @@
 # vividstasisProfileReader
 
-## RESUMING PROJECT SOON
-**ALSO WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS**
+**WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS**
 
 This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
 It can also be useful for an obs-scene by turning the background green.
@@ -37,6 +36,9 @@ Changelog
 
    - 1.3.4
     - Fixed KPS not resetting
+
+   - 1.3.4
+    - Removed avg KPS for now due to its inaccuracy, I'm sorry
 
 Future Ideas
 ------------------------------------
