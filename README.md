@@ -30,6 +30,7 @@ Future Ideas
  - Adding presets and custom presets.
  - KEY OVERLAY???
     - vote for it in the comments or smth idk am pretty new to github lol
+    - will also have a bit of customizations
  - Being able to customize the QuickOverview page.   !!! DONE !!!
  - Being able to display achievements on a 3rd tab page.
  - Adding Achievement progression on the QuickOverwiev page.   !!! DONE !!!
