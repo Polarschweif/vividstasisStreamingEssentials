@@ -48,9 +48,8 @@ Collecting ideas from the community here
 
 Screenshots
 ------------------------------------
-<img width="583" height="761" alt="grafik" src="https://github.com/user-attachments/assets/958a3c11-7d75-4a9f-8c51-302be80fd300" />
+<img width="444" height="761" alt="grafik" src="https://github.com/user-attachments/assets/457c6da8-6116-4b73-aae7-87079f001873" />
 
-(this screenshot was taken on version 1.0.0!!)
 
 <details>
   <summary></summary>
