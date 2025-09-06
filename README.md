@@ -24,12 +24,19 @@ Changelog
  - 1.2.1
     - Fixed colors not saving
 
+ - 1.3.1
+    - The Keyoverlay is here!!!
+    - It comes with a key counter, yaaay
+    - You can bind a key to reset the counter
+
+  - 1.3.2
+    - Fixed keybindings not updating when changing in-game
+
 Future Ideas
 ------------------------------------
  - Re-adding a 2nd tab page with all the informations and still being able to toggle background color between black and green.
  - Adding presets and custom presets.
- - KEY OVERLAY???
-    - vote for it in the comments or smth idk am pretty new to github lol
+ - KEY OVERLAY!!! !!! DONE !!!
     - will also have a bit of customizations
  - Being able to customize the QuickOverview page.   !!! DONE !!!
  - Being able to display achievements on a 3rd tab page.
