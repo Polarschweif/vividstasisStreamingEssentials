@@ -1,6 +1,7 @@
-# vividstasisProfileReader
+# vividstasisStreamingEssentials
+(Originally known as vividstasisProfileReader)
 
-**WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS**
+**WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS (When possible**
 
 This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
 It can also be useful for an obs-scene by turning the background green.
