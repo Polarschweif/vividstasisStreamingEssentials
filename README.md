@@ -46,8 +46,10 @@ Changelog
      - Fixed KPS not resetting
        
 
-   - 1.3.4
+   - 1.3.5
      - Removed avg KPS for now due to its inaccuracy, I'm sorry
+(Also changed the Name from ProfileViewer to StreamingEssentials a few days after 1.3.5 but am too lazy to make an extra version for this)
+  
        
 
 Future Ideas
