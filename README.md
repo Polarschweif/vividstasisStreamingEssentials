@@ -49,8 +49,11 @@ Changelog
    - 1.3.5
      - Removed avg KPS for now due to its inaccuracy, I'm sorry
 (Also changed the Name from ProfileViewer to StreamingEssentials a few days after 1.3.5 but am too lazy to make an extra version for this)
-  
-       
+
+ - 1.4.5
+    - Added starfallsapphic's random songpicker (BIG SHOUTOUT!!!)
+    - Contextmenu not disappearing anymore after toggling stuff
+
 
 Future Ideas
 ------------------------------------
