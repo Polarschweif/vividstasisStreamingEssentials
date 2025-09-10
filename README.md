@@ -56,6 +56,9 @@ Changelog
 
  - 1.4.6
     - (hopefully) Fixed always on top not correctly loading from config file
+  
+ - 1.4.7
+    - Fixed random song result not showing up after adding/removing/moving stats
 
 
 Future Ideas
