@@ -54,6 +54,9 @@ Changelog
     - Added starfallsapphic's random songpicker (BIG SHOUTOUT!!!)
     - Contextmenu not disappearing anymore after toggling stuff
 
+ - 1.4.6
+    - (hopefully) Fixed always on top not correctly loading from config file
+
 
 Future Ideas
 ------------------------------------
