@@ -1,6 +1,8 @@
 # vividstasisStreamingEssentials
 (Originally known as vividstasisProfileReader)
 
+# NO NEED TO WORRY WHEN COMMAND WINDOW OPENS, ITS ONLY SENDING AND GETTING INFORMATIONS FROM AN INTERNAL BROWSER LIKE NEWEST VERSION, THE RANDOM SONG PICKER, ETC!!!
+
 **WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS (When possible**
 
 This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
