@@ -62,6 +62,10 @@ Changelog
   
  - 1.4.7
     - Fixed random song result not showing up after adding/removing/moving stats
+
+ - 1.5.7
+    - The window now will be sized differently when using different ratios (idk if this english is even english lol)
+    - On every startup, the programm will check if there is a newer version
   
 Upcoming features
 ------------------------------------
