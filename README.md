@@ -60,6 +60,10 @@ Changelog
   
  - 1.4.7
     - Fixed random song result not showing up after adding/removing/moving stats
+  
+Upcoming features
+------------------------------------
+ - Adding toggleable clock display (also toggleable between 12h and 24h format)
 
 
 Future Ideas
