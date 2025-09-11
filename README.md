@@ -5,7 +5,7 @@
 
 This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
 It can also be useful for an obs-scene by turning the background green.
-Simply click anywhere on the black/green area to toggle between black and green. (CHANGED, check 1.2.0 changelog!!!)
+Simply rightclick anywhere on the and select Greenscreen mode to toggle between black and green.
 
 Changelog
 ------------------------------------
@@ -53,6 +53,7 @@ Changelog
  - 1.4.5
     - Added starfallsapphic's random songpicker (BIG SHOUTOUT!!!)
     - Contextmenu not disappearing anymore after toggling stuff
+    - Added 'Help' to the contextmenu wich opens a pdf file.
 
  - 1.4.6
     - (hopefully) Fixed always on top not correctly loading from config file
