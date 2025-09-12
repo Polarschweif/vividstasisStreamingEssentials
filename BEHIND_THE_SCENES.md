@@ -18,8 +18,13 @@ first prototype. Later on made some improvements for coding so I can easily
 add and remove the stats and also give them a better name than just the raw
 stuff like *money* instead of *Points*.
 
-With the version 1.1 I added the achievements display. This was the
-point where I knew, that this project will get **way** bigger than I thought.
+With the version 1.1 I added the achievements display. I wanted to
+have a little bit of the vivid/stasis theme on the self made progressbar.
+It went pretty well but I somehow have 48/47 achievements. I think an achievement
+got deleted but remained in the profile file, but I am not sure.
+This was also the point where I knew, that this project will get **way**
+bigger than I thought.
+
 With the version of 1.2, also known as the QOL-Update, I added a context menu
 (wich also got an update later on) wich allows you to toggle the visibility
 of the stats to decide wether to show specific stats or not.
