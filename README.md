@@ -60,7 +60,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Renamed from *ProfileViewer* → *StreamingEssentials*
 
 ### 1.4.5
-- Added **starfallsapphic’s Random Song Picker** 🎉  
+- Added **starfallsapphic’s Random Song Picker** 🎉 (not mine so **Big shoutout**)
 - Fixed context menu not disappearing  
 - Added “Help” (opens a PDF)
 
@@ -84,7 +84,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ## Future Ideas
 - Re-add a 2nd tab with full info & background color toggle  
 - Presets and custom presets  
-- **Key Overlay** customization ✅  
+- **Key Overlay**✅ and customization
 - Customizable Quick Overview ✅  
 - Display achievements on a 3rd tab ✅  
 - Show achievement progression on Quick Overview ✅
