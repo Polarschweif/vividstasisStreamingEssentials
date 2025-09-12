@@ -17,4 +17,8 @@ for every stat and the labels displaying the stats. This was the
 first prototype. Later on made some improvements for coding so I can easily
 add and remove the stats and also give them a better name than just the raw
 stuff like *money* instead of *Points*.
-With the version 1.2 I added the achievements display.
+With the version 1.1 I added the achievements display. This was the
+point where I knew, that this project will get **way** bigger than I thought.
+With the version of 1.2, also known as the QOL-Update, I added a context menu
+(wich also got an update later on) wich allows you to toggle the visibility
+of the stats to decide wether to show specific stats or not.
