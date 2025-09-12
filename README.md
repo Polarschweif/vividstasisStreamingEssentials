@@ -1,107 +1,105 @@
 # vividstasisStreamingEssentials
-(Originally known as vividstasisProfileReader)
+*(formerly **vividstasisProfileReader**)*
 
-**NO NEED TO WORRY WHEN COMMAND WINDOW OPENS, ITS ONLY SENDING AND GETTING INFORMATIONS FROM AN INTERNAL BROWSER LIKE NEWEST VERSION, THE RANDOM SONG PICKER, ETC!!!**
+---
 
-**WILL INCLUDE THE UPCOMING EVENT SOON AS ADDITIONAL STATS AS SOON AS THE EVENT STARTS (When possible**
+> ⚡ **Note:**  
+> When the command window opens, don’t worry — it’s only exchanging information with an internal browser  
+> (e.g., checking the newest version, using the random song picker, etc.).  
+> Upcoming event stats will be added as soon as they become available.
 
 ---
 
 ### 📚 Additional Documentation
-
 - [Behind the Scenes](./BEHIND_THE_SCENES.md)
 
 ---
 
-This program will detect and display your data from vivid/stasis with a quick overview of your Points, Battery, Rating and even your Soundscan Boosttickets.
-It can also be useful for an obs-scene by turning the background green.
-Simply rightclick anywhere on the and select Greenscreen mode to toggle between black and green.
+## About
 
-Changelog
-------------------------------------
- - 1.0.0
-    - Release of the first prototype
-      
+`vividstasisStreamingEssentials` detects and displays your data from **vivid/stasis**,  
+giving you a quick overview of your Points, Battery, Rating, and even your Soundscan Boosttickets.
 
- - 1.1.0
-    - Added achievement display
-      
+It can also be used in an OBS scene by turning the background green:  
+simply right-click anywhere and select **Greenscreen mode** to toggle between black and green.
 
- - 1.2.0 - QOL Update!!!
-   - Added right-click menu
-   - The order of the stats can now be changed by dragging it
-   - You can now choose what to display
-   - You can change the background color of the stat backgrounds and the text
-     
+---
 
- - 1.2.1
-    - Fixed colors not saving
-      
+## Changelog
 
- - 1.3.1
-    - The Keyoverlay is here!!!
-    - It comes with a key counter, yaaay
-    - You can bind a key to reset the counter
-      
+### 1.0.0
+- First prototype release
 
-  - 1.3.2
-    - Fixed keybindings not updating when changing in-game
-      
-   
-   - 1.3.Dumb (1.3.3 bc I am stupid)
-     - Added KPS counters (Wich I wanted to also add with 1.3.1 but forgor. As said, am stupid lol)
-       
+### 1.1.0
+- Added achievement display
 
-   - 1.3.4
-     - Fixed KPS not resetting
-       
+### 1.2.0 – QOL Update
+- Added right-click menu  
+- Re-order stats by dragging  
+- Choose which stats to display  
+- Customize background and text colors
 
-   - 1.3.5
-     - Removed avg KPS for now due to its inaccuracy, I'm sorry
-(Also changed the Name from ProfileViewer to StreamingEssentials a few days after 1.3.5 but am too lazy to make an extra version for this)
+### 1.2.1
+- Fixed colors not saving
 
- - 1.4.5
-    - Added starfallsapphic's random songpicker (BIG SHOUTOUT!!!)
-    - Contextmenu not disappearing anymore after toggling stuff
-    - Added 'Help' to the contextmenu wich opens a pdf file.
+### 1.3.1
+- Added **Key Overlay** with key counter  
+- Bind a key to reset the counter
 
- - 1.4.6
-    - (hopefully) Fixed always on top not correctly loading from config file
-  
- - 1.4.7
-    - Fixed random song result not showing up after adding/removing/moving stats
+### 1.3.2
+- Fixed keybindings not updating when changed in-game
 
- - 1.5.7
-    - The window now will be sized differently when using different ratios (idk if this english is even english lol)
-    - On every startup, the programm will check if there is a newer version
-  
-Upcoming features
-------------------------------------
- - Adding toggleable clock display (also toggleable between 12h and 24h format)
+### 1.3.3 (“1.3.Dumb”)
+- Added KPS counters (forgot them in 1.3.1 😅)
 
+### 1.3.4
+- Fixed KPS not resetting
 
-Future Ideas
-------------------------------------
- - Re-adding a 2nd tab page with all the informations and still being able to toggle background color between black and green.
- - Adding presets and custom presets.
- - KEY OVERLAY!!! !!! DONE !!!
-    - will also have a bit of customizations
- - Being able to customize the QuickOverview page.   !!! DONE !!!
- - Being able to display achievements on a 3rd tab page.
- - Adding Achievement progression on the QuickOverwiev page.   !!! DONE !!!
+### 1.3.5
+- Removed avg KPS due to inaccuracy  
+- Renamed from *ProfileViewer* → *StreamingEssentials*
 
-Collecting ideas from the community here
-------------------------------------
-*Nothing collected so far*
+### 1.4.5
+- Added **starfallsapphic’s Random Song Picker** 🎉  
+- Fixed context menu not disappearing  
+- Added “Help” (opens a PDF)
 
-Screenshots
-------------------------------------
+### 1.4.6
+- Fixed “Always on top” not loading from config
+
+### 1.4.7
+- Fixed random song result not showing after rearranging stats
+
+### 1.5.7
+- Window now adapts to different aspect ratios  
+- On startup, program checks for newer versions
+
+---
+
+## Upcoming Features
+- Toggleable clock display (12 h / 24 h)
+
+---
+
+## Future Ideas
+- Re-add a 2nd tab with full info & background color toggle  
+- Presets and custom presets  
+- **Key Overlay** customization ✅  
+- Customizable Quick Overview ✅  
+- Display achievements on a 3rd tab ✅  
+- Show achievement progression on Quick Overview ✅
+
+---
+
+## Community Ideas
+*(none yet – contributions welcome!)*
+
+---
+
+## Screenshots
 <img width="444" height="761" alt="grafik" src="https://github.com/user-attachments/assets/457c6da8-6116-4b73-aae7-87079f001873" />
 
-
 <details>
-  <summary></summary>
-  
- Trailer + showcase releasing soon on youtube (PolarStudios)
-  
+  <summary>Trailer & Showcase</summary>
+  Coming soon on **YouTube (PolarStudios)**
 </details>
