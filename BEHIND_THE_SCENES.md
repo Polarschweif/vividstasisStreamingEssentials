@@ -37,4 +37,19 @@ read the bindings from vivid/stasis. It temporarily had the average KPS display
 but got removed later on because it would also count when you would be Idle.
 I'll work on it and would re-added maybe with 1.7 or 1.8. Am thinking of
 that when the user is idle (so KPS = 0) the program wouldnt include it in the
-calculation.
+calculation. I wanted it to release the KPS stats with the overlay itself but
+forgot it somehow so it got added later.
+
+After a few minor updates, 1.4 released including starfall's random song picker,
+wichcis basically a website. It took me a bit of time to understand how I can
+run an internal browser wich can do inputs on the website and can read the
+result and display it. And since EmK530 made Livecross and its website, I am
+thinking about doing similar stuff to it like the random song picker. (Both
+of them need a big shoutout) I also made that the contextmenu wont disappear
+when toggeling stuff and added help.pdf wich can either be opened via the
+program or in the explorer. I might change stuff on that but like later on,
+maybe in 1.9 or so.
+
+then last but not least 1.5 wich is an importand update since the window is now
+able to be smaller or bigger depending on the screen aspect ratio (or sum shi
+like that, my english sucks sometimes) but thats pretty much it for 1.5.
