@@ -1,5 +1,5 @@
 # Behind the scenes
-**(basically just a logwhere I put anything like funny or interesting stuff in that happened to me while coding)**
+**(basically just a log where I put anything like funny or interesting stuff in that happened to me while coding)**
 
 ## The Idea
 
