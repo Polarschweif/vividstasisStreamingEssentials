@@ -52,4 +52,6 @@ maybe in 1.9 or so.
 
 then last but not least 1.5 wich is an importand update since the window is now
 able to be smaller or bigger depending on the screen aspect ratio (or sum shi
-like that, my english sucks sometimes) but thats pretty much it for 1.5.
+like that, my english sucks sometimes). And it will now detect if a mewer
+version is available wich is very important wich also means I can rest for now.
+But thats pretty much it for 1.5.
