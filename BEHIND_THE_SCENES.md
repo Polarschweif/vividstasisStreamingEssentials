@@ -27,4 +27,14 @@ bigger than I thought.
 
 With the version of 1.2, also known as the QOL-Update, I added a context menu
 (wich also got an update later on) wich allows you to toggle the visibility
-of the stats to decide wether to show specific stats or not.
+of the stats to decide wether to show specific stats or not and you can
+choose the background color of the stats panel and its text individually.
+But it didn't really take long to do it so it was nothing too big to make.
+
+The biggest update was 1.3 wich added the Keyoverlay and its KPS (Keys per
+second) live stats. It has counters for every single key and the programm will
+read the bindings from vivid/stasis. It temporarily had the average KPS display
+but got removed later on because it would also count when you would be Idle.
+I'll work on it and would re-added maybe with 1.7 or 1.8. Am thinking of
+that when the user is idle (so KPS = 0) the program wouldnt include it in the
+calculation.
