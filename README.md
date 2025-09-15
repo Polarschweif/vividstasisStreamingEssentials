@@ -99,6 +99,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 <img width="444" height="761" alt="grafik" src="https://github.com/user-attachments/assets/457c6da8-6116-4b73-aae7-87079f001873" />
 
 <details>
-  <summary>Trailer & Showcase</summary>
-  Coming soon on **YouTube (PolarStudios)**
+  <summary></summary>
+  Message of the day:
+  :3
 </details>
