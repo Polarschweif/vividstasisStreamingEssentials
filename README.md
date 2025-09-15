@@ -91,8 +91,8 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Re-add a 2nd tab with full info & background color toggle  
 - Presets and custom presets  
 - **Key Overlay**✅ and customization
-- Customizable Quick Overview ✅  
-- Display achievements on a 3rd tab ✅  
+- Customizable Quick Overview ✅ 
+- Display achievements on a 3rd tab
 - Show achievement progression on Quick Overview ✅
 
 ---
