@@ -74,10 +74,16 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Window now adapts to different aspect ratios  
 - On startup, program checks for newer versions
 
+### 1.6.7
+- Added clock display next to *Profile-Overview* header
+- Clock display can be en- and disabled
+- You can toggle between 12h and 24h format
+
 ---
 
 ## Upcoming Features
-- Toggleable clock display (12 h / 24 h)
+- Saving (relative) position so the window opens where it closed last time (coming in version 1.7)
+- Removing the title bar (the thing that contains minimizing, closing, etc.) and still be able to mive the window around (coming with version 1.7 or as an own update in 1.8)
 
 ---
 
