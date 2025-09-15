@@ -90,7 +90,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ---
 
 ## Future Ideas
-- Re-add a 2nd tab with full info & background color toggle  
+- Re-add a 2nd tab with full info  
 - Presets and custom presets  
 - **Key Overlay**✅ and customization
 - Customizable Quick Overview ✅ 
