@@ -101,5 +101,6 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 <details>
   <summary></summary>
   Message of the day:
-  :3
+
+  I need some rest rn, dont feel mentally good at the moment
 </details>
