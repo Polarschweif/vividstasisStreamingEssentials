@@ -49,8 +49,8 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ### 1.3.2
 - Fixed keybindings not updating when changed in-game
 
-### 1.3.3 (“1.3.Dumb”)
-- Added KPS counters (forgot them in 1.3.1 😅)
+### 1.3.3
+- Added KPS counters (forgot them in 1.3.1, skill issue lmao)
 
 ### 1.3.4
 - Fixed KPS not resetting
