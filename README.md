@@ -1,6 +1,8 @@
 # vividstasisStreamingEssentials
 *(formerly **vividstasisProfileReader**)*
 
+PROJECT PAUSED (again, I know...) DUE TO MY CURRENT CIRCUMSTANCES AND THE REMOVAL OF EmK530'S LIVECROSS WICH MAKES ME NOT SURE IF IT IS AGAINST HAJIMELI'S GUIDELINES WHAT I AM PROGRAMMING HERE
+
 ---
 
 > ⚡ **Note:**  
