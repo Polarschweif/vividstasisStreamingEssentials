@@ -52,6 +52,21 @@ maybe in 1.9 or so.
 
 then last but not least 1.5 wich is an importand update since the window is now
 able to be smaller or bigger depending on the screen aspect ratio (or sum shi
-like that, my english sucks sometimes). And it will now detect if a mewer
+like that, my english sucks sometimes). And it will now detect if a newer
 version is available wich is very important wich also means I can rest for now.
 But thats pretty much it for 1.5.
+
+## 1.6
+
+I just added a clock display with toggleable 12h/24h format next to the header
+and improved my stupid typo on this page. Typed mewer instead of newer... Thats
+literally it.
+
+## The great Pause (I hope its not that long)
+
+So... where do I begin. EmK530 released the Livecross, wich... *was*... a 24/7
+worldcross lobby with its own website to queue songs. It was pretty fun, til
+Cheryl found out about it, resulting in warning EmK530 for not doing something
+like that without consent. I dont think they wanted him to remove it, but he took
+Livecross down, wich made me not sure if the StreamingEssentials are allowed. So
+the project is paused for now.
