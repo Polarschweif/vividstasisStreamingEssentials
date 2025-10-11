@@ -79,6 +79,9 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Clock display can be en- and disabled
 - You can toggle between 12h and 24h format
 
+### 1.6.8
+- Adjusted the amount of achievements due to an update of vivid/stasis
+
 ---
 
 ## Upcoming Features
