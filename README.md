@@ -94,7 +94,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Added a cancel button to the update message box wich leads to this website when an Update is out
   (It boots the program normally, message boxes only have ok and cancel and I am too lazy to make an extra window for it)
 - Added a window to view all the variables and values running in the program (PASSWORD REQUIRED, only for dev usage!!!)
-- 
+
 ---
 
 ## Upcoming Features
