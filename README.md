@@ -82,6 +82,19 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ### 1.6.8
 - Adjusted the amount of achievements due to an update of vivid/stasis
 
+### 1.7.8 BIG update
+- Fixed the achievement progressbar
+- The program now saves its last position and boots up at this position again
+- Added a message box appearing when there are news fot vividstasisStreamingEssentials
+- News get written to NewsLog.txt to avoid getting the same notification more than once
+- Changed the drag and drop mechanic for the profile informations to a simpler and more stable one.
+   - Click a stat to select it
+   - Scroll your mousewheel to move it
+   - Click it again to deselect it or click a different one to change your selection
+- Added a cancel button to the update message box wich leads to this website when an Update is out
+  (It boots the program normally, message boxes only have ok and cancel and I am too lazy to make an extra window for it)
+- Added a window to view all the variables and values running in the program (PASSWORD REQUIRED, only for dev usage!!!)
+- 
 ---
 
 ## Upcoming Features
