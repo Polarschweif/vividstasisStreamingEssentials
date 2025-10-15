@@ -10,7 +10,7 @@
 
 ---
 
-## Join my [Discord](https://discord.gg/XgwM76A3MD)
+**Join my [Discord](https://discord.gg/XgwM76A3MD) to not miss any news on future updates**
 
 ---
 
