@@ -10,6 +10,10 @@
 
 ---
 
+## Join my [Discord](https://discord.gg/XgwM76A3MD)
+
+---
+
 ### 📚 Additional Documentation
 - [Behind the Scenes](./BEHIND_THE_SCENES.md)
 
@@ -94,6 +98,22 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Added a cancel button to the update message box wich leads to this website when an Update is out
   (It boots the program normally, message boxes only have ok and cancel and I am too lazy to make an extra window for it)
 - Added a window to view all the variables and values running in the program (PASSWORD REQUIRED, only for dev usage!!!)
+
+### 1.8.8 MASSIVE update (Release date tba, more info in the Discord server)
+- overhauled the program itself by removing the title bar and added a custom one wich can be accessed by hovering over the gray trigger zone at the top. you can close and drag the wondow there.
+- added social links
+  - Discord 
+  - This GitHub repository
+- Added different modes
+  - Greenscreen-Mode (I know that it has been existing since the first prototype)
+  - Transparent-Mode (Turns the background transparent)
+  - SemiTransparent-Mode (Turns EVERYTHING slightly transparent)
+- Press F10 to enter the new code entry window. Codes soon (if there are some)
+- The window cant be moved out of the screen so it cant be completely unaccessible when closed out of the screen
+- Made the context menu (FINALLY) in a dark theme to not burn your eyes
+- Cleaned up some unnecessary code (not really neccessary to mention here but it took me almost 2 hours)
+- Fixed moving stats up or down only working while the mouse is on a stat. It works now when the mouse is somewhere on the application
+  - (On tansparent background, the mouse is practically behind the window itself when it's on the transparent background. This doesnt apply to SemiTransparent-Mode)
 
 ---
 
