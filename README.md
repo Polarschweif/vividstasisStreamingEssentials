@@ -115,7 +115,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
   - (On tansparent background, the mouse is practically behind the window itself when it's on the transparent background. This doesnt apply to SemiTransparent-Mode)
 
 ### 1.8.9
-- the custom top bar now disappears after 30 seconds regardless of the cursor is hovered over it or not, fixing that the rop bar doesnt disappear sometimes
+- the custom top bar now disappears after 30 seconds regardless of the cursor being hovered over it or not, fixing that the rop bar doesnt disappear sometimes
 
 ---
 
