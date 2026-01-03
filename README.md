@@ -116,6 +116,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 
 ### 1.8.9
 - the custom top bar now disappears after 30 seconds regardless of the cursor being hovered over it or not, fixing that the rop bar doesnt disappear sometimes
+- removed the random song picker since it wasn't up to date and vivid/stasis has its on way to pick a song now (forgot to change the help.pdf, blame me yet again :sob:)
 
 ---
 
