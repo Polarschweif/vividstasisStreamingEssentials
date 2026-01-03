@@ -5,8 +5,7 @@
 
 > ⚡ **Note:**  
 > When the command window opens, don’t worry — it’s only exchanging information with an internal browser  
-> (e.g., checking the newest version, using the random song picker, etc.).  
-> Upcoming event stats will be added as soon as they become available.
+> (checking the newest version).
 
 ---
 
@@ -114,6 +113,9 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 - Cleaned up some unnecessary code (not really neccessary to mention here but it took me almost 2 hours)
 - Fixed moving stats up or down only working while the mouse is on a stat. It works now when the mouse is somewhere on the application
   - (On tansparent background, the mouse is practically behind the window itself when it's on the transparent background. This doesnt apply to SemiTransparent-Mode)
+
+### 1.8.9
+- the custom top bar now disappears after 30 seconds regardless of the cursor is hovered over it or not, fixing that the rop bar doesnt disappear sometimes
 
 ---
 
