@@ -73,3 +73,7 @@ the project is paused for now.
 
 ## THE BREAK IS OVER
 As the title says, I'm back. Well, mostly. The latent Release is available again and am thinking of working on 1.7. (Beside of me loosing my Job and my parents being most likely mad at me)
+
+## 1.7
+
+Where do I begin writing about 1.7 after a while... will do later, maybe I remember some stuff then (hopefully >_<)
