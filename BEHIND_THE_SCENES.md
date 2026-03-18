@@ -65,7 +65,7 @@ literally it.
 ## The great Pause (I hope its not that long)
 
 So... where do I begin. EmK530 released the Livecross, wich... *was*... a 24/7
-worldcross lobby with its own website to queue songs. It was pretty fun, til
+worldcross lobby with its own website to queue songs. It was pretty fun, until
 Cheryl found out about it, resulting in warning EmK530 for not doing something
 like that without consent. I dont think they wanted him to remove it, but he took
 Livecross down, wich made me not sure if the StreamingEssentials are allowed. So
@@ -76,4 +76,15 @@ As the title says, I'm back. Well, mostly. The latent Release is available again
 
 ## 1.7
 
-Where do I begin writing about 1.7 after a while... will do later, maybe I remember some stuff then (hopefully >_<)
+Where do I begin writing about 1.7 after a while... will do later, maybe I remember
+some stuff then (hopefully >_<)
+
+## 1.8
+
+Yet again... Where do I start? am not really writing often here. It is now March
+18th 2026. It is a while since I released 1.8 but 1.8 didn't feature that much
+except that I removed the random song picker due to vivid/stasis having its own
+random song picker now. I also fixed a bug with the top bar which expands when
+hovering over it. Sometimes the top bar stayed in place even though the mouse was
+not hovered over it. I fixed that vy making the top bar disappear by itself
+after 30 seconds of no mouse movement on the top bar.
