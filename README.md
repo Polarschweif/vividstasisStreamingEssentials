@@ -4,7 +4,7 @@
 ---
 
 > ⚡ **Note:**  
-> When the command window opens, don’t worry — it’s only exchanging information with an internal browser  
+> When the command window opens, don’t worry — it’s only exchanging information with GitHub  
 > (checking the newest version).
 
 ---
