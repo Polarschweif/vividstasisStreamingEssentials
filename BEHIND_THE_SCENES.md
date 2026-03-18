@@ -5,14 +5,14 @@
 
 The Idea came out of nowhere, I was just looking into the vivid/stadis
 profile data and had the Idea *what if I just let a program read them in a
-quick overvier* and **BAM**, 30 minutes later I finished the first prototype of
+quick overview* and **BAM**, 30 minutes later I finished the first prototype of
 this whole project.
 
 
 ## Everything before 1.5.7
 
 So, everything started with just a window, a few panels and labels
-displaying the stats. It was just black background, the panels as background
+displaying the stats. It was just a black background, the panels as a background
 for every stat and the labels displaying the stats. This was the
 first prototype. Later on made some improvements for coding so I can easily
 add and remove the stats and also give them a better name than just the raw
@@ -41,7 +41,7 @@ calculation. I wanted it to release the KPS stats with the overlay itself but
 forgot it somehow so it got added later.
 
 After a few minor updates, 1.4 released including starfall's random song picker,
-wichcis basically a website. It took me a bit of time to understand how I can
+wich is basically a website. It took me a bit of time to understand how I can
 run an internal browser wich can do inputs on the website and can read the
 result and display it. And since EmK530 made Livecross and its website, I am
 thinking about doing similar stuff to it like the random song picker. (Both
@@ -51,10 +51,10 @@ program or in the explorer. I might change stuff on that but like later on,
 maybe in 1.9 or so.
 
 then last but not least 1.5 wich is an importand update since the window is now
-able to be smaller or bigger depending on the screen aspect ratio (or sum shi
-like that, my english sucks sometimes). And it will now detect if a newer
-version is available wich is very important wich also means I can rest for now.
-But thats pretty much it for 1.5.
+able to be smaller or bigger depending on the screen aspect ratio (or something
+like that, my englishis not the best sometimes). And it will now detect if a
+newer version is available wich is very important wich also means I can rest for
+now. But thats pretty much it for 1.5.
 
 ## 1.6
 
@@ -76,7 +76,20 @@ As the title says, I'm back. Well, mostly. The latent Release is available again
 
 ## 1.7
 
-Where do I begin writing about 1.7 after a while... I basically added some kind of news window popping up at the beginning, currently I only have a message box but I am thinking about working on that later on. The window saves its last position and appears now on the saved position when starting it, except the position is not within the screen anymore, then it will appear at the edge of the screen. I also reworked how reordering of the stats work, instead of dragging it up or down it now works by clicking on a stat and move it up or down by scrolling the mousewheel, klicking the stat again will deselect it. If an update is available I wanted the message box to have an option to get redirected to the GitHub, but since a message box only has 'ok' and 'cancel', I made that the cancel button opens the GitHub of vsse... I don't know what I was thinking, as said, I will most likely work on that. There also exist now a window including all variables that exist in the program, which I use for debugging, it is locked with a password though so only I have access to it.
+Where do I begin writing about 1.7 after a while... I basically added some kind of
+news window popping up at the beginning, currently I only have a message box but I
+am thinking about working on that later on. The window saves its last position and
+appears now on the saved position when starting it, except the position is not
+within the screen anymore, then it will appear at the edge of the screen. I also
+reworked how reordering of the stats work, instead of dragging it up or down it now
+works by clicking on a stat and move it up or down by scrolling the mousewheel,
+klicking the stat again will deselect it. If an update is available I wanted the
+message box to have an option to get redirected to the GitHub, but since a
+message box only has 'ok' and 'cancel', I made that the cancel button opens the
+GitHub of vsse... I don't know what I was thinking, as said, I will most likely
+work on that. There also exist now a window including all variables that exist
+in the program, which I use for debugging, it is locked with a password
+though so only I have access to it.
 
 ## 1.8
 
