@@ -121,8 +121,6 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ---
 
 ## Upcoming Features
-- Saving (relative) position so the window opens where it closed last time (coming in version 1.7)
-- Removing the title bar (the thing that contains minimizing, closing, etc.) and still be able to move the window around (coming with version 1.7 or as an own update in 1.8)
 - Having different tabs (4 in total planned), one for the quick profile overview, one for a list of the whole profile file for debug, one for every achievement and their completion and one for tamasatchi)
 - thinking about a worldcross mode where the window is a bit smaller and only showing Name, Rating and Class for those who have StreamingEssentials on the right side (bc of worldcross' leaderboard thingy being also on the right side)
 - having 3 slots of custom presets (basically 3 different config files) and a few pre-defined presets
@@ -141,5 +139,5 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
   <summary></summary>
   Message of the day:
 
-  I need some rest rn, dont feel mentally good at the moment
+  I will add a few more things to it, with the upcoming 6.0 update, there will be no more major updates on this project.
 </details>
