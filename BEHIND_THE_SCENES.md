@@ -76,8 +76,7 @@ As the title says, I'm back. Well, mostly. The latent Release is available again
 
 ## 1.7
 
-Where do I begin writing about 1.7 after a while... will do later, maybe I remember
-some stuff then (hopefully >_<)
+Where do I begin writing about 1.7 after a while... I basically added some kind of news window popping up at the beginning, currently I only have a message box but I am thinking about working on that later on. The window saves its last position and appears now on the saved position when starting it, except the position is not within the screen anymore, then it will appear at the edge of the screen. I also reworked how reordering of the stats work, instead of dragging it up or down it now works by clicking on a stat and move it up or down by scrolling the mousewheel, klicking the stat again will deselect it. If an update is available I wanted the message box to have an option to get redirected to the GitHub, but since a message box only has 'ok' and 'cancel', I made that the cancel button opens the GitHub of vsse... I don't know what I was thinking, as said, I will most likely work on that. There also exist now a window including all variables that exist in the program, which I use for debugging, it is locked with a password though so only I have access to it.
 
 ## 1.8
 
