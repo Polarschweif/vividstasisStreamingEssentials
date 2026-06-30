@@ -3,12 +3,6 @@
 
 ---
 
-> ⚡ **Note:**  
-> When the command window opens, don’t worry — it’s only exchanging information with GitHub  
-> (checking the newest version).
-
----
-
 **Join my [Discord](https://discord.gg/XgwM76A3MD) to not miss any news on future updates**
 
 ---
@@ -117,6 +111,11 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 ### 1.8.9
 - the custom top bar now disappears after 30 seconds regardless of the cursor being hovered over it or not, fixing that the rop bar doesnt disappear sometimes
 - removed the random song picker since it wasn't up to date and vivid/stasis has its on way to pick a song now (forgot to change the help.pdf, blame me yet again :sob:)
+
+### 1.8.10
+- adjusted the amount of achievements to the newest version
+- added `List<string> removedAchievements` to prevent having more achievement than there exist **(if you have more achievements than there exist, please let me know in the discord and send the \[achievements] section of your profile file in C:/Users/YOURNAME/AppData/Local/VIVIDSTASIS)**
+- updated Help.pdf
 
 ---
 
