@@ -114,7 +114,7 @@ simply right-click anywhere and select **Greenscreen mode** to toggle between bl
 
 ### 1.8.10
 - adjusted the amount of achievements to the newest version
-- added `List<string> removedAchievements` to prevent having more achievement than there exist **(if you have more achievements than there exist, please let me know in the discord and send the \[achievements] section of your profile file in C:/Users/YOURNAME/AppData/Local/VIVIDSTASIS)**
+- added `List<string> removedAchievements` to prevent having more achievement than there exist **(if you still have more achievements than there exist, please let me know in the discord and send the \[achievements] section of your profile file in C:/Users/YOURNAME/AppData/Local/VIVIDSTASIS)**
 - updated Help.pdf
 
 ---
